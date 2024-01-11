@@ -10,6 +10,7 @@ public void setup()
    
     }
 }  
+//create  a new function
 public void draw()  
 {   
   //not needed for this assignment
